@@ -1,0 +1,15 @@
+/Users/frankcowperwood/Development/FinalTasksSF/HW_Module9/DelegatesAndExecptions/bin/Debug/net7.0/DelegatesAndExecptions
+/Users/frankcowperwood/Development/FinalTasksSF/HW_Module9/DelegatesAndExecptions/bin/Debug/net7.0/DelegatesAndExecptions.deps.json
+/Users/frankcowperwood/Development/FinalTasksSF/HW_Module9/DelegatesAndExecptions/bin/Debug/net7.0/DelegatesAndExecptions.runtimeconfig.json
+/Users/frankcowperwood/Development/FinalTasksSF/HW_Module9/DelegatesAndExecptions/bin/Debug/net7.0/DelegatesAndExecptions.dll
+/Users/frankcowperwood/Development/FinalTasksSF/HW_Module9/DelegatesAndExecptions/bin/Debug/net7.0/DelegatesAndExecptions.pdb
+/Users/frankcowperwood/Development/FinalTasksSF/HW_Module9/DelegatesAndExecptions/obj/Debug/net7.0/Execptions.csproj.AssemblyReference.cache
+/Users/frankcowperwood/Development/FinalTasksSF/HW_Module9/DelegatesAndExecptions/obj/Debug/net7.0/Execptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frankcowperwood/Development/FinalTasksSF/HW_Module9/DelegatesAndExecptions/obj/Debug/net7.0/Execptions.AssemblyInfoInputs.cache
+/Users/frankcowperwood/Development/FinalTasksSF/HW_Module9/DelegatesAndExecptions/obj/Debug/net7.0/Execptions.AssemblyInfo.cs
+/Users/frankcowperwood/Development/FinalTasksSF/HW_Module9/DelegatesAndExecptions/obj/Debug/net7.0/Execptions.csproj.CoreCompileInputs.cache
+/Users/frankcowperwood/Development/FinalTasksSF/HW_Module9/DelegatesAndExecptions/obj/Debug/net7.0/DelegatesAndExecptions.dll
+/Users/frankcowperwood/Development/FinalTasksSF/HW_Module9/DelegatesAndExecptions/obj/Debug/net7.0/refint/DelegatesAndExecptions.dll
+/Users/frankcowperwood/Development/FinalTasksSF/HW_Module9/DelegatesAndExecptions/obj/Debug/net7.0/DelegatesAndExecptions.pdb
+/Users/frankcowperwood/Development/FinalTasksSF/HW_Module9/DelegatesAndExecptions/obj/Debug/net7.0/Execptions.genruntimeconfig.cache
+/Users/frankcowperwood/Development/FinalTasksSF/HW_Module9/DelegatesAndExecptions/obj/Debug/net7.0/ref/DelegatesAndExecptions.dll
