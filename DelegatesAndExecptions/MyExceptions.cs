@@ -55,8 +55,7 @@ namespace DelegatesAndExecptions
                     if (ex is IndexOutOfRangeException)
                         Console.WriteLine("Возникло исключение IndexOutOfRangeException");
                     else
-                        Console.WriteLine(ex.Message + $"\nТип исключения: {ex.GetType()}");
-                        
+                        Console.WriteLine(ex.Message + $"\nТип исключения: {ex.GetType()}");       
                 }
             }
 		}
