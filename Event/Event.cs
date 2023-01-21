@@ -1,10 +1,8 @@
 ﻿using System;
 namespace Event
 {
-
     public class Sort
 	{
-
         public delegate void SortList(List<string> surnames, int number);
         public event SortList SortEvent;
 
@@ -25,7 +23,5 @@ namespace Event
             SortEvent?.Invoke(surnames, number);
         }
     }
-
-    
 }
 

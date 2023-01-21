@@ -2,7 +2,6 @@
 
 namespace Event
 {
-
     public class Program
     {
         static void Main(string[] args)
@@ -14,8 +13,7 @@ namespace Event
 
             try
             {
-                sort.Read(surnames);
-
+                sort.Read(surnames); 
             }
             catch(Exception ex)
             {
@@ -30,13 +28,28 @@ namespace Event
                 case 1:
                     surnames.Sort();
                     Console.WriteLine("Сортирвка А-Я выполнена!");
-                    Console.ReadKey();
+                    ShowList(surnames);
+                    Console.Read();
                     break;
                 case 2:
+                    surnames.Sort();
                     surnames.Reverse();
                     Console.WriteLine("Сортирвка Я-А выполнена!");
-                    Console.ReadKey();
+                    ShowList(surnames);
+                    Console.Read();
                     break;
+            }
+
+            void ShowList(List<string> surnames)
+            {
+                for (int i = 0; i < surnames.Count; i++)
+                {
+                    if (i < surnames.Count - 1)
+                        Console.Write($"{surnames[i]}, ");
+                    else
+                        Console.Write($"{surnames[i]}.");
+
+                }
             }
         }
     }

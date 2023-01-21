@@ -10,7 +10,6 @@ namespace DelegatesAndExecptions
             {
                 try
                 {
-
                     Console.Write("Введите номер ошибки: ");
                     console = Console.ReadLine();
                     switch (console)
