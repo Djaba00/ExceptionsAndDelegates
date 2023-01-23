@@ -2,7 +2,7 @@
 namespace Execptions
 {
     public class MyExceptions
-	{
+    {
         public static void Exceptions()
         {
             var console = string.Empty;
@@ -57,7 +57,7 @@ namespace Execptions
                         Console.WriteLine(ex.Message + $"\nТип исключения: {ex.GetType()}");       
                 }
             }
-		}
 	}
+    }
 }
 
