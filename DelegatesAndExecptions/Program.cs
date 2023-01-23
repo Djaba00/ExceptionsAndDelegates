@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DelegatesAndExecptions
+namespace Execptions
 {
     class Program
     {

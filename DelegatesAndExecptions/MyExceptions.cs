@@ -1,5 +1,5 @@
 ﻿using System;
-namespace DelegatesAndExecptions
+namespace Execptions
 {
 	public class MyExceptions
 	{
@@ -37,7 +37,7 @@ namespace DelegatesAndExecptions
                             Console.WriteLine("Завершение программы...");
                             break;
                         default:
-                            throw new Exception("Некорректное значение!\nДоступные команды: 1 - 4, exit");
+                            throw new UncorrectInputException("Некорректное значение!\nДоступные команды: 1 - 4, exit");
                             break;
                     }
                 }
