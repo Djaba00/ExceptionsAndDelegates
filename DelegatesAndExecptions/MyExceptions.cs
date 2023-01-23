@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Execptions
 {
-	public class MyExceptions
+    public class MyExceptions
 	{
         public static void Exceptions()
         {
