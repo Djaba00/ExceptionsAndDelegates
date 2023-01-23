@@ -57,7 +57,7 @@ namespace Execptions
                         Console.WriteLine(ex.Message + $"\nТип исключения: {ex.GetType()}");       
                 }
             }
-	    }
+	}
     }
 }
 
